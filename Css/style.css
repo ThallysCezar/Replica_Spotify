@@ -7,6 +7,7 @@ body {
     url(../image/ruido.png),
     linear-gradient(50deg, #ff4169, #7c26f8);
     background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 nav.navbar-transparente {
@@ -35,4 +36,11 @@ nav.navbar-transparente {
 
 .capa {
     text-align: center;
+}
+
+h1 {
+    font-weight: 900;
+    letter-spacing: -0.05em;
+    margin-bottom: 50px;
+    color: white;
 }
