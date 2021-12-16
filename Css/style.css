@@ -1,5 +1,6 @@
 body, html, #home{
     height: 100%;
+    overflow-x: hidden;
 }
 
 body {
@@ -95,7 +96,10 @@ nav.navbar-transparente {
 }
 
 .rotacionar {
+    -ms-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
     transform: rotate(30deg);
+    padding-left: 80px;
 }
 
 h1 {
