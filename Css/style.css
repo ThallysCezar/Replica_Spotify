@@ -94,6 +94,10 @@ nav.navbar-transparente {
     padding: 10px 0;
 }
 
+.rotacionar {
+    transform: rotate(30deg);
+}
+
 h1 {
     font-weight: 900;
     letter-spacing: -0.05em;
