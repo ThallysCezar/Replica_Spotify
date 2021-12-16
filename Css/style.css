@@ -44,7 +44,7 @@ nav.navbar-transparente {
     -webkit-border-radius: 500px;
     text-transform: uppercase;
     transition: background 0.4s, color 0.4s;
-    padding: 10px 15px;
+    padding: 10px 20px;
 }
 
 .btn-roxo {
@@ -57,7 +57,12 @@ nav.navbar-transparente {
 }
 
 .btn-branco {
-    background: #7c25f8;
+    border: 2px solid white;
+}
+
+.btn-branco:hover {
+    background-color: white;
+    color: black;
 }
 
 h1 {
