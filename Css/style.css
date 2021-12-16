@@ -77,6 +77,9 @@ h1 {
     h1{
         font-size: 3em;
     }
+    .btn-custom {
+        margin: 10px 15px;
+    }
 }
 
 /* Medium devices (tablets, 768px and up)*/
